@@ -1,6 +1,6 @@
-# ADAF
-Anti-Derivatives Approximator for Enhancing Physics-Informed Neural Networks
+# Anti-Derivatives Approximator for Enhancing Physics-Informed Neural Networks
 Jeongsu Lee
+
 Department of mechanical, smart, and industrial engineering, Gachon University, Seongnam 13120, South Korea
 Corresponding authors: leejeongsu@gachon.ac.kr 
 
